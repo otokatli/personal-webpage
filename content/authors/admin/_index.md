@@ -6,7 +6,7 @@ title: Nelson Bighetti
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Robotics Research Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
