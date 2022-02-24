@@ -73,4 +73,4 @@ highlight_name: true
 
 Ozan Tokatli is a robotics research engineer at [RACE](https://race.ukaea.uk/), [UKAEA](https://www.gov.uk/government/organisations/uk-atomic-energy-authority). His research interests include physical human-robot interaction (pHRI), haptics/teleoperation, kinematics, and robotics.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
