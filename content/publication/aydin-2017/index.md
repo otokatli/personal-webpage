@@ -1,37 +1,37 @@
 ---
-title: "Optimal Grasping Pose Synthesis in a Constrained Environment"
+title: "Fractional order admittance control for physical human-robot interaction"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Alessandro Altobelli
+- Yusuf Aydin
 - admin
-- Guy Burroughes
-- Robert Skilton
+- Volkan Patoglu
+- Cagatay Basdogan
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-01-01T00:00:00Z"
-doi: "10.3390/robotics10010004"
+date: "2017-07-06T00:00:00Z"
+doi: "10.1109/WHC.2017.7989911"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-12-26T00:00:00Z"
+publishDate: "2017-07-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In MDPI Robotics
-publication_short: In *Robotics *
+publication: In IEEE World Haptics Conference
+publication_short: In *WHC*
 
-abstract: In the last few decades, several approaches have been presented to accomplish tasks with robots or autonomous systems in a glovebox; nevertheless, in nuclear facilities, risky operations are still executed by humans that guarantee a high manipulation capability and dexterity. Inside the gloveboxes, robotic devices have to operate in cluttered environments, or environments with limited space for movement; therefore, it is of significant interest to identify grasping poses that are feasible within such constrained environments. In this paper, we present and experimentally evaluate a strategy to synthesise optimal grasps considering geometric primitives for a manipulation systems in a constrained environment. The novel strategy has been experimentally evaluated in a cluttered environment (as a glovebox mock-up) with realistic objects, and the efficacy of the proposed grasping algorithm is proposed.
+abstract: In physical human-robot interaction (pHRI), the cognitive skill of a human is combined with the accuracy, repeatability and strength of a robot. While the promises and potential outcomes of pHRI are glamorous, the control of such coupled systems is challenging in many aspects. In this paper, we propose a new controller, fractional order admittance controller, for pHRI systems. The stability analysis of the new control system with human in-the-loop is performed and the interaction performance is investigated experimentally with 10 subjects during a task imitating a contact with a stiff environment. The results show that the fractional order controller is more robust than the standard admittance controller and helps to reduce the human effort in task execution.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
