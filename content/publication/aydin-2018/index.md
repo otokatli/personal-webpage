@@ -1,5 +1,5 @@
 ---
-title: "Fractional order admittance control for physical human-robot interaction"
+title: "Stable Physical Human-Robot Interaction Using Fractional Order Admittance Control"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
