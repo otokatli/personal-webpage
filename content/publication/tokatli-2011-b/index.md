@@ -29,12 +29,7 @@ publication_types: ["1"]
 publication: In IEEE International Conference on Mechatronics
 publication_short: In *Mechatronics*
 
-abstract: We propose using series elastic actuation (SEA) in micro mechanical devices to achieve
-precise control of the interaction forces. Using μSEA for force control removes the need for
-high-precision force sensors/actuators and allows for accurate force control through simple
-position control of the deflection of a compliant coupling element. In this work, we employ a
-design optimization framework to design this element. The proposed design framework
-ensures robustness of the design while simultaneously optimizing multiple objective
+abstract: We propose using series elastic actuation (SEA) in micro mechanical devices to achieve precise control of the interaction forces. Using mSEA for force control removes the need for high-precision force sensors/actuators and allows for accurate force control through simple position control of the deflection of a compliant coupling element. In this work, we employ a design optimization framework to design this element. The proposed design framework ensures robustness of the design while simultaneously optimizing multiple objective functions. The robust design optimization method relies on the Sensitivity Region concept which minimizes the change of the objective function with respect to the small changes in the design variables. Once the optimal design is obtained, a non-overshooting controller is implemented for the mSEA to achieve accurate force tracking without ever exceeding the reference force input.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
