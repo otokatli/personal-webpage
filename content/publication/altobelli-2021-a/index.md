@@ -29,7 +29,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In MDPI Robotics
-publication_short: In *Robotics *
+publication_short: In *Robotics*
 
 abstract: In the last few decades, several approaches have been presented to accomplish tasks with robots or autonomous systems in a glovebox; nevertheless, in nuclear facilities, risky operations are still executed by humans that guarantee a high manipulation capability and dexterity. Inside the gloveboxes, robotic devices have to operate in cluttered environments, or environments with limited space for movement; therefore, it is of significant interest to identify grasping poses that are feasible within such constrained environments. In this paper, we present and experimentally evaluate a strategy to synthesise optimal grasps considering geometric primitives for a manipulation systems in a constrained environment. The novel strategy has been experimentally evaluated in a cluttered environment (as a glovebox mock-up) with realistic objects, and the efficacy of the proposed grasping algorithm is proposed.
 
